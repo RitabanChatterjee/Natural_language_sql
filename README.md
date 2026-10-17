@@ -116,8 +116,8 @@ Generated artifacts are runtime files and should not be committed to Git.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/QueryCanvas.git
-cd QueryCanvas
+git clone https://github.com/RitabanChatterjee/Natural_language_sql
+cd Natural_language_sql
 ```
 
 ### 2. Create a virtual environment
